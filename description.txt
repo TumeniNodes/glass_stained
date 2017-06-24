@@ -1,2 +1,2 @@
-glass_stained by v-rob
+glass_stained by v-rob - https://forum.minetest.net/viewtopic.php?f=9&t=17824
 adds stained glass panes and xpanes fence topper to Minetest Game
